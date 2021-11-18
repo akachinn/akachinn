@@ -1,4 +1,4 @@
-```
+```js
 class akabeyy{
   constructor(...options) {
     this.height = "1.78"
