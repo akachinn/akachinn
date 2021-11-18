@@ -1,3 +1,5 @@
+<h2>About Me</h2>
+
 ```js
 class akabeyy{
   constructor(...options) {
@@ -9,3 +11,5 @@ class akabeyy{
   }
 }
 ```
+
+Discord Accounts: [akachinn#2015](https://discord.com/users/856887745246527498)
