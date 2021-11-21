@@ -16,6 +16,13 @@ var akachinn = {
 console.log(akachinn);
 ```
 
- [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/856887745246527498
+##
+<span> 
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=akachinn" width="%100" height="200px"
+</p>
+</span>
+
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/856887745246527498
                             )](https://discord.com/users/856887745246527498)
 
