@@ -13,4 +13,4 @@ var akachinn = {
 console.log(akachinn);
 ```
 
-Discord Accounts: [akachînn#2015](https://discord.com/users/856887745246527498)
+Discord Accounts: [akachînn#0010](https://discord.com/users/856887745246527498)
