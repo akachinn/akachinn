@@ -23,6 +23,3 @@ console.log(akachinn);
 </p>
 </span>
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/856887745246527498
-                            )](https://discord.com/users/856887745246527498)
-
