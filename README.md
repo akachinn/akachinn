@@ -16,5 +16,6 @@ var akachinn = {
 console.log(akachinn);
 ```
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/856887745246527498
+ [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/856887745246527498
                             )](https://discord.com/users/856887745246527498)
+
